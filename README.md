@@ -5,13 +5,10 @@
 </p>
 
 
-### Blogs
-
-- [JeanHeyd Meneide - ThePhD](https://thephd.dev/)
-
 ### Blog Posts
 - [On the Costs of Syscalls - Georg Sauthoff](https://gms.tf/on-the-costs-of-syscalls.html)
 - [Hacking Millions of Modems (and Investigating Who Hacked My Modem) - Sam Curry](https://samcurry.net/hacking-millions-of-modems)
+- [Why Not Just Do Simple C++ RAII in C? - JeanHeyd Meneide](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 
 ### Talks
 
