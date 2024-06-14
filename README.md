@@ -9,15 +9,12 @@
 
 - [JeanHeyd Meneide - ThePhD](https://thephd.dev/)
 
+### Blog Posts
+- [On the Costs of Syscalls - Georg Sauthoff](https://gms.tf/on-the-costs-of-syscalls.html)
+- [Hacking Millions of Modems (and Investigating Who Hacked My Modem) - Sam Curry](https://samcurry.net/hacking-millions-of-modems)
+
 ### Talks
 
 - [Catch ⬆️: Unicode for C++23 - JeanHeyd Meneide - CppCon 2019](https://www.youtube.com/watch?v=BdUipluIf1E)
 - [An unholy fusion of Rust and C++ in physx-rs (Stockholm Rust Meetup, October 2019)](https://www.youtube.com/watch?v=RxtXGeDHu0w)
 - [Rust, Open Source, Game Dev (Stockholm Rust Meetup, October 2019)](https://www.youtube.com/watch?v=lpOg2nl3kr0)
-
-### Windows
-
-### ISAs
-
-- [On the Costs of Syscalls - Georg Sauthoff](https://gms.tf/on-the-costs-of-syscalls.html)
-
