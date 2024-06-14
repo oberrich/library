@@ -12,6 +12,7 @@
 ### Talks
 
 - [Catch ⬆️: Unicode for C++23 - JeanHeyd Meneide - CppCon 2019](https://www.youtube.com/watch?v=BdUipluIf1E)
+- [An unholy fusion of Rust and C++ in physx-rs (Stockholm Rust Meetup, October 2019)](https://www.youtube.com/watch?v=RxtXGeDHu0w)
 
 ### Windows
 
