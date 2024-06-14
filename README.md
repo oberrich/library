@@ -9,6 +9,10 @@
 
 - [JeanHeyd Meneide - ThePhD](https://thephd.dev/)
 
+### Talks
+
+- [Catch ⬆️: Unicode for C++23 - JeanHeyd Meneide - CppCon 2019](https://www.youtube.com/watch?v=BdUipluIf1E)
+
 ### Windows
 
 ### ISAs
