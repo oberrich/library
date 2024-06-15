@@ -6,6 +6,7 @@
 
 
 ### Blog Posts
+- [The Old New Thing - Raymond Chen](https://devblogs.microsoft.com/oldnewthing/)
 - [The Rise of Meson - Georg Sauthoff](https://gms.tf/the-rise-of-meson.html)
 - [On the Costs of Syscalls - Georg Sauthoff](https://gms.tf/on-the-costs-of-syscalls.html)
 - [Hacking Millions of Modems (and Investigating Who Hacked My Modem) - Sam Curry](https://samcurry.net/hacking-millions-of-modems)
